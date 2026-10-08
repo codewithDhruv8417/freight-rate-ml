@@ -4,3 +4,5 @@
 venv/
 .env
 .ipynb_checkpoints/
+catboost_info/
+tempCodeRunnerFile.py
