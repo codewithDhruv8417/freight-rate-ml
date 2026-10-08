@@ -370,7 +370,7 @@ freight-rate-ml/
 ## 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/codewithDhruv8417/freight-rate-ml.git
 cd freight-rate-ml
 ```
 
